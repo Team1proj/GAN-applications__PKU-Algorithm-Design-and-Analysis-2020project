@@ -10,7 +10,7 @@
 
 - 代码见DCGAN.py
 - 其中训练数据集见[百度网盘](https://pan.baidu.com/share/init?surl=eSifHcA)（提取码：g5qa），来自知乎用户何之源的文章[GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
-- 训练生成的数据集为generated_faces.zip
+- 训练生成的数据集为generated_faces（分八卷压缩）
 
 在此基础上，何沐阳希望做到给定特征，生成动漫头像，参考了github上[Animation-Avatar-Generation](https://github.com/Unispac/Animation-Avatar-Generation)中的ACGAN，即*Conditional Image Synthesis With Auxiliary Classifier GANs*, Odena A, 2017。
 
