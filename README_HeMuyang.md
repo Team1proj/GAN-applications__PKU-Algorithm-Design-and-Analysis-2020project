@@ -4,7 +4,7 @@
 
 这是何沐阳同学负责部分的说明文档。
 
-动漫头像生成.pptx是6月5日project报告的slide。
+**动漫头像生成.pptx**是6月5日project报告的slide。
 
 何沐阳首先在[DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)的基础上实现了一个Deep Convolution Generative Adversarial Networks用于动漫头像的生成。
 
